@@ -1,5 +1,2 @@
 # Forge-HexBot
-Mostly 3d printed 3d printer for the forge event in Hack Club. Using the open scource MKS Tinybee with TMC2209 Drivers. 
-Sponsored By: 
-Wham Bam Systems 
-LDO Motors 
+HexBotv2 (yes there was a v1 😭) is a mostly 3d printed 3d printer (only uses screws and threaded inserts but for v3 i plan to make it all press fit). This project is powered by: Forge, WhamBamSystems, and LDO Motors. This uses the open scource MKS tinybee board with TMC2209 with wifi integration. I plan to devlop a web app to utlise remote printing and controll. Additionally I plan to make an AMS style system that will be able to change colours wirelessly. (That is a seprate project) 
