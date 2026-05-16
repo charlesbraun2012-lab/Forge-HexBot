@@ -4,10 +4,12 @@ HexBotv2 (yes there was a v1 😭) is a mostly 3d printed 3d printer (only uses 
 V1:
 <img width="1179" height="1153" alt="IMG_6568" src="https://github.com/user-attachments/assets/46b4b944-6172-4fc0-9bfe-462f508f671e" />
 
-V2 CAD: 
+V2 CAD:
+
 <img width="709" height="660" alt="Forge Printer _ V2 Assembily - Google Chrome 5_16_2026 5_11_53 PM" src="https://github.com/user-attachments/assets/fcb2c7ff-91f8-45fa-af70-bab4c4a1d1eb" />
 
 Wiring Diagram:
+
 <img width="827" height="408" alt="Untitled presentation (3)" src="https://github.com/user-attachments/assets/f06db8e6-5c35-4e4c-ba6d-fa407e57f8b9" />
 
 Z-Axis
