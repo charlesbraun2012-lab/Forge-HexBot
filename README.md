@@ -13,20 +13,37 @@ Wiring Diagram:
 <img width="827" height="408" alt="Untitled presentation (3)" src="https://github.com/user-attachments/assets/f06db8e6-5c35-4e4c-ba6d-fa407e57f8b9" />
 
 Z-Axis
+
   Z-Axis motor $17 KB-3D Link
+  
   M3 Nuts and bolts $10 Amazon Link
+  
 X-Axis
+
   E3D V6 Hot End $14 E3D V6 Hot End Link
+  
   Extruder motor $17 KB-3D Link
+  
   Extruder $6 Amazon Link
+  
   X-Axis Motor$17KB-3D Link
+  
   Pulleys $7 Amazon link
+  
 Y-Axis
+
   Y-axis motor $17 KB-3D Link
+  
   Grease $8 Amazon Link
+  
 Electronics
+
   MKS TinyBee + screen + tmc drivers $59 Amazon Link
+  
   Limit Switch $5 Amazon Link
+  
   Wire Crimper & Connectors $30 Amazon Link
+  
   Power supply $18 Amazon Link
+  
   22 AWG wires $7 Amazon Link
