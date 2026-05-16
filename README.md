@@ -1,5 +1,5 @@
 # Forge-HexBot
-HexBotv2 (yes there was a v1 😭) is a mostly 3d printed 3d printer (only uses screws and threaded inserts but for v3 I plan to make it all press fit). This project is powered by: Forge, WhamBamSystems, and LDO Motors. This uses the open scource MKS tinybee board with TMC2209 with wifi integration. I plan to devlop a web app to utlise remote printing and controll. Additionally I plan to make an AMS style system that will be able to change colours wirelessly. (That is a seprate project) I made this project because I learned so much from V1 that I feel it wouldnt be right to not make anouther version.
+HexBot V2 (yes there was a v1 😭) is a mostly 3d printed 3d printer (only uses screws and threaded inserts but for v3 I plan to make it all press fit). This project is powered by: Forge, WhamBamSystems, and LDO Motors. This uses the open scource MKS tinybee board with TMC2209 with wifi integration. I plan to devlop a web app to utlise remote printing and controll. Additionally I plan to make an AMS style system that will be able to change colours wirelessly. (That is a seprate project) I made this project because I learned so much from V1 that I feel it wouldnt be right to not make anouther version.
 
 V1:
 <img width="1179" height="1153" alt="IMG_6568" src="https://github.com/user-attachments/assets/46b4b944-6172-4fc0-9bfe-462f508f671e" />
