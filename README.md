@@ -34,3 +34,5 @@ Wiring Diagram:
 | | Wire Crimper & Connectors | $30 | [Amazon Link](Amazon Link) |
 | | Power supply | $18 | [Amazon Link](Amazon Link) |
 | | 22 AWG wires | $7 | [Amazon Link](Amazon Link) |
+
+(links dont work half the time for some reason but all the links work in the BOM.csv file)
