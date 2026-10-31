@@ -27,11 +27,8 @@ Wiring Diagram:
 | | Extruder | $6 | [Amazon Link](Amazon Link) |
 | | X-Axis Motor | $17 | [KB-3D Link](KB-3D Link) |
 | | Pulleys | $7 | [Amazon link](Amazon link) |
-
-| **Y-Axis** 
-| Y-axis motor | $17 | [KB-3D Link](KB-3D Link) |
+| **Y-Axis** | Y-axis motor | $17 | [KB-3D Link](KB-3D Link) |
 | | Grease | $8 | [Amazon Link](Amazon Link) |
-
 | **Electronics** | MKS TinyBee + screen + tmc drivers | $59 | [Amazon Link](Amazon Link) |
 | | Limit Switch | $5 | [Amazon Link](Amazon Link) |
 | | Wire Crimper & Connectors | $30 | [Amazon Link](Amazon Link) |
